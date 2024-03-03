@@ -1,6 +1,6 @@
 # SOFTWARE DESIGN GUIDE
 
-THE SUMMARY OF THE PDF ON SOFTWARE DESIGN GUIDE BY ARJAN CODES AS REQUESTED FROM OsMaxin
+THE SUMMARY OF THE PDF ON SOFTWARE DESIGN GUIDE BY ARJAN CODES AS REQUESTED FROM OsMaxin Developers
 
 Software design can be simply defined as the systematic planning of a software system, defining its design, components and structure so as to meet a specific user friendly requirement. it is a very essential part of software development because it entails the plans of the software, Do's and Don't's and overall design of the software so as to meet the desired requirement.
 
